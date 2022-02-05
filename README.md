@@ -1,4 +1,7 @@
 # NFT-Market
 
+Below, you can reach the deployment!
 
-Read me file
+https://ozguripekci.github.io/NFT-Market/
+
+Many thanks.
